@@ -1,0 +1,6 @@
+n=10
+p,s=0,0
+while p<=n:
+    s=s+p
+    p=p+1
+    print("the total value:",s)
