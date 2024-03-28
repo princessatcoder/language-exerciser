@@ -1,0 +1,5 @@
+n=int(input("enter any number"))
+if(n==15):
+    print("yes")
+else:
+    print("no")
