@@ -1,0 +1,2 @@
+str='tirumala'
+print(str[::-1])
